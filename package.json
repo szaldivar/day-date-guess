@@ -1,6 +1,6 @@
 {
   "name": "day-date-guess",
-  "homepage": "http://szaldivar.github.io/day-date-guess",
+  "homepage": "https://szaldivar.github.io/day-date-guess/",
   "private": true,
   "scripts": {
     "dev": "next dev",
